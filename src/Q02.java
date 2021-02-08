@@ -1,7 +1,7 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Q02 {
-
     public static void main(String[] args) {
 		/*
 		1)Kullanıcıdan tamsayı dizisi girmesini isteyin
@@ -37,5 +37,5 @@ public class Q02 {
 
 
     }
-
 }
+
